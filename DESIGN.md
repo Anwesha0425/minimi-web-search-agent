@@ -83,3 +83,4 @@ The agent is organized around a **4-Stage Grounded Pipeline** with **Determinist
 2. **Speculative Pre-fetching**: Predict probable follow-up queries while the user is reading the current response and pre-warm cached search results.
 3. **Automated LLM Hallucination Checker**: Add an asynchronous verification critic pass that compares every numeric price or claim in the final text against the raw snippet bytes, auto-correcting any subtle hallucination.
 4. **Structured Multi-Agent Debate for Ambiguous Facts**: For disputed industry claims (e.g. unconfirmed acquisitions or leaked pricing), spin up parallel worker passes that cross-examine conflicting sources.
+

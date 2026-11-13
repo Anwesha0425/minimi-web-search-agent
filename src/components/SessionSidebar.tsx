@@ -95,3 +95,4 @@ export const SessionSidebar: React.FC<SessionSidebarProps> = ({
     </aside>
   );
 };
+

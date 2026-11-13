@@ -76,3 +76,4 @@ export const SearchActivity: React.FC<SearchActivityProps> = ({
     </div>
   );
 };
+

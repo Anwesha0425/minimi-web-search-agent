@@ -352,3 +352,4 @@ export class DuckDuckGoFallbackProvider implements SearchProvider {
     ];
   }
 }
+

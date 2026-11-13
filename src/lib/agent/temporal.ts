@@ -177,3 +177,4 @@ export class TemporalResolver {
     return `Current Absolute Time: ${this.formatCurrentDateTime()} (ISO: ${this.toISODate(this.baseDate)})`;
   }
 }
+

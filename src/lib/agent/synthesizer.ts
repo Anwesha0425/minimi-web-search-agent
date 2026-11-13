@@ -95,3 +95,4 @@ ${s.publishedDate ? `Date: ${s.publishedDate}\n` : ''}Snippet: ${s.snippet}\n\n`
     return messages;
   }
 }
+

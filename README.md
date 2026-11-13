@@ -125,3 +125,4 @@ minimi/
 ## 📜 License
 
 MIT License. Built for the Minimi hiring challenge.
+

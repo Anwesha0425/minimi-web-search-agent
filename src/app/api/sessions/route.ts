@@ -38,3 +38,4 @@ export async function POST(req: NextRequest) {
   const newSession = store.createSession(title);
   return NextResponse.json(newSession);
 }
+

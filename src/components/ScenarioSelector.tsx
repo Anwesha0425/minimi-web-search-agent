@@ -66,3 +66,4 @@ export const ScenarioSelector: React.FC<ScenarioSelectorProps> = ({ onSelectScen
     </div>
   );
 };
+

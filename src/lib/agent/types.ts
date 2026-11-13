@@ -66,3 +66,4 @@ export interface AgentEvent {
   type: 'status' | 'plan' | 'search_start' | 'search_results' | 'token' | 'done' | 'error';
   payload?: any;
 }
+

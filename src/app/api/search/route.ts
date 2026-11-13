@@ -20,3 +20,4 @@ export async function GET(req: NextRequest) {
   const results = await tool.searchMulti([q]);
   return NextResponse.json(results);
 }
+
